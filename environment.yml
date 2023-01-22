@@ -48,6 +48,8 @@ dependencies:
   - pointpats
   - proj
   - pygeos
+  - pyidw
+  - pykrige
   - pyproj
   - pysal
   - pyspark
@@ -59,6 +61,7 @@ dependencies:
   - scikit-learn
   - scipy
   - seaborn
+  - sentinelsat
   - shapely
   - spaghetti
   - spglm
@@ -81,3 +84,4 @@ dependencies:
     - urllib3==1.26.12
     - us==2.0.2
     - vrpy==0.5.1
+    - spatialpandas==0.4.6

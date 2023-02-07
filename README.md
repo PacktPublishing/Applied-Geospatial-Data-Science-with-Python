@@ -93,9 +93,10 @@ Anytime you see this, you’ll need to substitute ‘YOUR FILE PATH’ with the 
 which can be downloaded from the GitHub repo. The data stored in the GitHub repo can be found
 in the Releases section or by visiting: https://github.com/PacktPublishing/Applied-Geospatial-DataScience-with-Python/releases. There are three parts to the data:
 
-Data.pt1.zip
-LCMS_CONUS_v2021-7_Land_Cover_Annual_2021.zip
-S2B_MSIL2A_20220504T161829_N0400_R040_T17TNF_20220504T210702.SAFE.zip
+* Data.pt1.zip
+* LCMS_CONUS_v2021-7_Land_Cover_Annual_2021.zip
+* S2B_MSIL2A_20220504T161829_N0400_R040_T17TNF_20220504T210702.SAFE.zip
+
 You’ll need to extract the contents of these zip folders and store the contents in a single folder. You’ll
 then point to this folder any time you see ‘YOUR FILE PATH’ referenced in the Jupyter notebooks.Preface xvii
 

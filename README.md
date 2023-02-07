@@ -52,6 +52,7 @@ Additionally, you will need to set up keys to several APIs, from which you will 
 the book.
 
 | API              | Setup link                                        |
+| ---------------- | --------------------------------------------------|
 | OpenMapQuest     | https://developer.mapquest.com/user/login/sign-up |
 | Google Maps      | https://developers.google.com/maps                |
 | US Census Bureau | https://api.census.gov/data/key_signup.html       |

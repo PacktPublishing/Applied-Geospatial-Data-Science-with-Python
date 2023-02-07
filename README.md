@@ -69,8 +69,8 @@ the book.
 The quality of the hardware can impact the runtime for some analyses, as is the case for most data
 science activities. As such, we recommend hardware similar or better to the specified hardware outlined
 to prevent any potential issues:
-• NVIDIA GeForce GTX 1050
-• 16 GB RAM
+* NVIDIA GeForce GTX 1050
+* 16 GB RAM
 
 We recommend that you use Anaconda as your Python environment and package manager. To begin
 installing the Anaconda Distribution, you’ll want to visit the Anaconda Distribution installation website
@@ -117,9 +117,9 @@ You’ll need to substitute YOUR FILE PATH in this code reference with the direc
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/AN9bG).
 
 ### Related products <Other books you may enjoy>
-* Learning Geospatial Analysis with Python - Third Edition [[Packt]](https://www.packtpub.com/product/azure-synapse-analytics-cookbook/9781803231501) [[Amazon]](https://www.amazon.com/dp/1803231505)
+* Learning Geospatial Analysis with Python - Third Edition [[Packt]](https://www.packtpub.com/product/learning-geospatial-analysis-with-python-third-edition/9781789959277) [[Amazon]](https://www.amazon.com/dp/1789959276)
 
-* Applied Machine Learning Explainability Techniques [[Packt]](https://www.packtpub.com/product/limitless-analytics-with-azure-synapse/9781800205659) [[Amazon]](https://www.amazon.com/dp/1800205651)
+* Applied Machine Learning Explainability Techniques [[Packt]](https://www.packtpub.com/product/limitless-analytics-with-azure-synapse/9781800205659) [[Amazon]](https://www.amazon.com/dp/1803246154)
 
 ## Get to Know the Author
 **David S. Jordan**

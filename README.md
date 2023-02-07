@@ -43,11 +43,7 @@ With the following software and hardware list you can run all code files present
 As readers of this book, we assume that you come from a background in either data science or GIS.
 We also expect that you have some foundational knowledge of working with Python.
 
-Additionally, you will need to set up keys to several APIs, from which you will access data throughout
-the book.
-
-
-| Software required                      | OS required                        |
+| Software/Hardware                      | Operating System requirements      |
 | ------------------------------------   | -----------------------------------|
 | Anaconda Distribution                  | Windows, Mac OS X, and Linux (Any) |                                                            
 | Python 3.10.6                          | Windows, Mac OS X, and Linux (Any) |

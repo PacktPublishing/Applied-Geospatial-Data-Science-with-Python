@@ -1,6 +1,6 @@
 # Applied Geospatial Data Science with Python		
 
-<a href="https://www.packtpub.com/product/learn-azure-synapse-data-explorer/9781803233956?utm_source=github&utm_medium=repository&utm_campaign=9781803233956"><img src="https://static.packt-cdn.com/products/9781803233956/cover/smaller" alt="Applied Geospatial Data Science with Python" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/learn-azure-synapse-data-explorer/9781803233956?utm_source=github&utm_medium=repository&utm_campaign=9781803233956"><img src="https://static.packt-cdn.com/products/9781803238128/cover/smaller" alt="Applied Geospatial Data Science with Python" height="256px" align="right"></a>
 
 This is the code repository for [Applied Geospatial Data Science with Python](https://www.packtpub.com/product/learn-azure-synapse-data-explorer/9781803233956?utm_source=github&utm_medium=repository&utm_campaign=9781803233956), published by Packt.
 

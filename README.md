@@ -91,7 +91,7 @@ data_path = r'YOUR FILE PATH'
 
 Anytime you see this, you’ll need to substitute ‘YOUR FILE PATH’ with the file path of the data folder
 which can be downloaded from the GitHub repo. The data stored in the GitHub repo can be found
-in the Releases section or by visiting: https://github.com/PacktPublishing/Applied-Geospatial-DataScience-with-Python/releases. There are three parts to the data:
+in the Releases section or by visiting: https://github.com/PacktPublishing/Applied-Geospatial-Data-Science-with-Python/releases. There are three parts to the data:
 
 * Data.pt1.zip
 * LCMS_CONUS_v2021-7_Land_Cover_Annual_2021.zip

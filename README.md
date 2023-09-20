@@ -1,3 +1,11 @@
+
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
+
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
+3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
+
+Code: <b>USD75OFF</b>
+
 # Applied Geospatial Data Science with Python		
 
 <a href="https://www.packtpub.com/product/applied-geospatial-data-science-with-python/9781803238128?utm_source=github&utm_medium=repository&utm_campaign=9781803238128"><img src="https://static.packt-cdn.com/products/9781803238128/cover/smaller" alt="Applied Geospatial Data Science with Python" height="256px" align="right"></a>

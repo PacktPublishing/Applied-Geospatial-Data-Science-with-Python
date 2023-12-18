@@ -84,4 +84,4 @@ dependencies:
     - us==2.0.2
     - vrpy==0.5.1
     - spatialpandas==0.4.6
-    - pyidw==0.2.20
+    - git+https://github.com/totallypredictable/pyidw
